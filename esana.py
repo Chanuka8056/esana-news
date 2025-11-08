@@ -7,8 +7,8 @@ import re
 import os
 
 # Telegram Bot credentials
-TELEGRAM_TOKEN = "Your_Telegram_API"
-CHAT_ID = "Your_Telegram ID"
+TELEGRAM_TOKEN = "8558619666:AAE91bI-h-MeyA0yWqyGfoJT33ToxSRSUIM"
+CHAT_ID = "7593338671"
 
 # Helakuru Esana link eka
 URL = "https://www.helakuru.lk/esana"
@@ -268,5 +268,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 # iwarai iwarai aye balanna deyak nakamathi widiyata hadaganilla
